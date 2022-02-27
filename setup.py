@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'topsis',         # How you named your package folder (MyLib)
-  packages = ['topsis'],   # Chose the same as "name"
+  name = '101903683',         # How you named your package folder (MyLib)
+  packages = ['101903683'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   author = 'Kunal garg',                   # Type in your name
   author_email = 'kgarg2_be19@thapar.edu',      # Type in your E-Mail
