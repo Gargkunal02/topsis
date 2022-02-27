@@ -7,5 +7,6 @@ setup(
   author_email = 'kgarg2_be19@thapar.edu',      # Type in your E-Mail
   url = 'https://github.com/Gargkunal02/topsis.git',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/Gargkunal02/topsis/archive/refs/tags/v_01.tar.gz',    # I explain this later on
-  install_requires=['pandas','numpy','math','copy','sys','os']
+  install_requires=['pandas','numpy','math','copy','sys','os'],
+  classifiers=["Programming Language :: Python :: 3"]
 )
